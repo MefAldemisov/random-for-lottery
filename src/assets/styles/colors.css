@@ -1,0 +1,8 @@
+:root {
+  --color-main: hsl(202, 56%, 62%);
+  --color-main-light: hsl(202, 56%, 82%);
+  --color-main-dark: hsl(202, 56%, 42%);
+
+  --color-text: hsl(202, 6%, 16%);
+  --color-shadow: hsl(202, 6%, 16%, 95%);
+}

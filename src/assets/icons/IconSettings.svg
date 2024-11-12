@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22" stroke="currentColor">
+	<g clip-path="url(#clip0_13174_24201)">
+		<path
+			d="M8.9375 8.9375C10.0766 8.9375 11 8.01409 11 6.875C11 5.73591 10.0766 4.8125 8.9375 4.8125C7.79841 4.8125 6.875 5.73591 6.875 6.875C6.875 8.01409 7.79841 8.9375 8.9375 8.9375Z"
+			fill="none"
+			stroke-width="1.2"
+			stroke-linecap="round"
+			stroke-linejoin="round"
+		/>
+		<path
+			d="M14.4375 17.1875C15.5766 17.1875 16.5 16.2641 16.5 15.125C16.5 13.9859 15.5766 13.0625 14.4375 13.0625C13.2984 13.0625 12.375 13.9859 12.375 15.125C12.375 16.2641 13.2984 17.1875 14.4375 17.1875Z"
+			fill="none"
+			stroke-width="1.2"
+			stroke-linecap="round"
+			stroke-linejoin="round"
+		/>
+		<path
+			d="M11 6.875H18.5625"
+			fill="none"
+			stroke-width="1.2"
+			stroke-linecap="round"
+			stroke-linejoin="round"
+		/>
+		<path
+			d="M3.4375 6.875H6.875"
+			fill="none"
+			stroke-width="1.2"
+			stroke-linecap="round"
+			stroke-linejoin="round"
+		/>
+		<path
+			d="M16.5 15.125H18.5625"
+			fill="none"
+			stroke-width="1.2"
+			stroke-linecap="round"
+			stroke-linejoin="round"
+		/>
+		<path
+			d="M3.4375 15.125H12.375"
+			fill="none"
+			stroke-width="1.2"
+			stroke-linecap="round"
+			stroke-linejoin="round"
+		/>
+	</g>
+	<defs>
+		<clipPath id="clip0_13174_24201">
+			<rect width="22" height="22" fill="white" />
+		</clipPath>
+	</defs>
+</svg>
